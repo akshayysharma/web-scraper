@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2010\Projects\scrape\scrape\bin\Debug\scrape.exe
+c:\users\user\documents\visual studio 2010\Projects\scrape\scrape\bin\Debug\scrape.pdb
+c:\users\user\documents\visual studio 2010\Projects\scrape\scrape\obj\x86\Debug\scrape.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\scrape\scrape\obj\x86\Debug\scrape.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\scrape\scrape\obj\x86\Debug\scrape.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\scrape\scrape\obj\x86\Debug\scrape.exe
+c:\users\user\documents\visual studio 2010\Projects\scrape\scrape\obj\x86\Debug\scrape.pdb
+C:\Users\user\documents\visual studio 2010\Projects\scrape\scrape\obj\x86\Debug\scrape.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\new\scrape\scrape\obj\x86\Debug\scrape.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\new\scrape\scrape\obj\x86\Debug\scrape.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\new\scrape\scrape\bin\Debug\scrape.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\new\scrape\scrape\bin\Debug\scrape.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\new\scrape\scrape\obj\x86\Debug\scrape.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\new\scrape\scrape\obj\x86\Debug\scrape.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\new\scrape\scrape\obj\x86\Debug\scrape.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\new\scrape\scrape\obj\x86\Debug\scrape.csproj.GenerateResource.Cache
